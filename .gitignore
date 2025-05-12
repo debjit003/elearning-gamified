@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.log
+
+# Virtual environment
+env/
+venv/
+
+# IDEs
+.vscode/
+.idea/
+
+# Node.js (if using React later)
+node_modules/
+
+# OS
+.DS_Store
+
+# Django
+*.env
+*.bak
+*.egg-info/
