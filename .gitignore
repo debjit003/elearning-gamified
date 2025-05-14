@@ -1,24 +1,15 @@
-# Python
+# Python/Django
+*.pyc
 __pycache__/
-*.py[cod]
-*.sqlite3
-*.log
+db.sqlite3
+.env
 
-# Virtual environment
-env/
-venv/
+# Node/React
+node_modules/
+build/
+.env
 
-# IDEs
+# System
+.DS_Store
 .vscode/
 .idea/
-
-# Node.js (if using React later)
-node_modules/
-
-# OS
-.DS_Store
-
-# Django
-*.env
-*.bak
-*.egg-info/
